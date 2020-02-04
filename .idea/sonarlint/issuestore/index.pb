@@ -8,3 +8,5 @@ F
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+F
+notes/chapter_02.ipynb,3/c/3c3c1eeba91e42ba877dbc8b01019a77ffe1940e
